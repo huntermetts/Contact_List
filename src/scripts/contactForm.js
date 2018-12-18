@@ -17,7 +17,6 @@ const contactForm = {
 
  let indexHtmlArticle = document.querySelector(".formContainer")
  indexHtmlArticle.innerHTML = userContactForm
- console.log("test")
   }
 }
 
