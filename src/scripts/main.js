@@ -1,3 +1,3 @@
-import foodList from "./foodList"
+import contactForm from "./contactForm"
 
-foodList.fridgify()
+contactForm.buildEmptyContactForm();
